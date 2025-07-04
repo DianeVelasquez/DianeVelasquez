@@ -1,6 +1,6 @@
 <div align="center">
   <img width="120" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
-  <h1>¡Hola, soy [Tu Nombre] 👋!</h1>
+  <h1>¡Hola, soy Dayana 👋!</h1>
 </div>
 
 <div align="center">
@@ -47,8 +47,8 @@
 ### 🌐 Contáctame
 
 <div align="center">
-  <a href="mailto:tu_correo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://linkedin.com/in/tu_usuario"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:dayis.velasquez@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/dayana-velasquez-alvarez-672752360/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://instagram.com/tu_usuario"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </div>
 
