@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="300" src="assets/Mimi_Logo.png" />
+  <img width="300" src="assets/MimiLogo.png" />
   <h1>¡Hola, soy Dayana 👋!</h1>
 </div>
 
