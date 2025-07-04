@@ -1,78 +1,67 @@
-<div align="Center">
-<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
+<div align="center">
+  <img width="120" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
+  <h1>¡Hola, soy [Tu Nombre] 👋!</h1>
+</div>
 
 <div align="center">
-
-<a href="https://github.com/DianeVelasquez">
-</a>
-
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
-[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
+  <em>Estudiante de Ingeniería de Sistemas · Matemática en construcción · Soñadora con IA · Amante del arte en lo cotidiano.</em>
 </div>
 
+---
 
-🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
+🎓 Estudio **Ingeniería de Sistemas** en la Universidad EAN y **Matemáticas** en la Universidad de los Andes.
 
-💻 Passionately building an **Arch Installer** project. 
+🧠 Actualmente, desarrollo proyectos de **Inteligencia Artificial**, enfocándome en la **optimización matemática**, **entrenamiento de modelos** y su **implementación en apps** con impacto.
 
+🧰 Herramientas y tecnologías:
+- Python · JavaScript · C++ · MATLAB
+- Bases de datos: DBeaver · Data Modeler · SQL · AWS
+- Machine Learning · Redes Neuronales · Modelado matemático
 
-<div align="Center">
-<h1>Skills</h1>
+💡 Me apasionan:
+- La IA que resuelve problemas reales
+- Las bases de datos como estructura de conocimiento
+- El arte que nace en lo cotidiano
+- La música como lenguaje universal (🎹 & 🎸)
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,cpp,js,matlab,html,css,aws,sqlite,postgresql,git,vscode" />
 </div>
 
-<div align="Center">
+---
 
-| Website | Programming |
-| ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+### 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=onedark&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=onedark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=onedark&hide_border=true"/>
 </div>
 
-<br>
-<br>
-<br>
+---
 
-<div align="Center">
-<h1>Operating Systems</h1>
+### 🌐 Contáctame
 
-<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
-
+<div align="center">
+  <a href="mailto:tu_correo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/tu_usuario"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://instagram.com/tu_usuario"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </div>
 
-<br>
-<br>
+---
 
-| Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
-
-
-
-<div align="Center">
-
-| CtorW's Stats | Ultimate Streak |
-| ------------- | ------------- |
-| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
-
-| Most Lang |
-| ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
-
-
+<div align="center">
+  <em>"Todos merecen ser escuchados y comprendidos."</em>  
+  <br/>
+  <em>Disfruto lo que otros consideran ordinario. Allí reside la verdadera belleza.</em>
 </div>
 
-<br>
-<br>
+---
 
-<div align="Center">
+⭐ Créditos de inspiración: [CtorW](https://github.com/CtorW)
 
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| ----------|
-| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
 
-</div>
-
-------
-
-Credit: [Ctorw](https://github.com/CtorW)
-Last Edited on: 12/04/2005
