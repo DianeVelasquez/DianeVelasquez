@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="120" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
+  <img width="300" src="assets/Mimi_Logo.png" />
   <h1>¡Hola, soy Dayana 👋!</h1>
 </div>
 
