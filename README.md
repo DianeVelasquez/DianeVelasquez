@@ -47,7 +47,7 @@
 ### 🌐 Contáctame
 
 <div align="center">
-  <a href="mailto:dayis.velasquez@hotmail.com"><img src="https://skillicons.dev/icons?i=outlook" /></a>
+  <a href="mailto:dayis.velasquez@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://linkedin.com/in/dayana-velasquez-alvarez-672752360/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://instagram.com/tu_usuario"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </div>
