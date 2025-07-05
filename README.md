@@ -4,7 +4,7 @@
 
 <div align="center">
   <em>Estudiante de Ingeniería de Sistemas · Matemática en construcción · Soñadora con IA · Amante del arte en lo cotidiano.</em>
-  <img width="300" src="assets/Mylog.png" />
+  <img width="300" src="assets/MyLog.png" />
 </div>
 
 
