@@ -6,31 +6,31 @@
 </div>
 
 <div align="center">
-  <em>Estudiante de Ingeniería de Sistemas · Matemática en construcción · Soñadora con IA · Amante del arte en lo cotidiano.</em>
+  <em>Systems Engineering student - Mathematician under construction - Dreamer with AI - Lover of art in everyday life.</em>
 </div>
 
 
 
 ---
 
-🎓 Estudio **Ingeniería de Sistemas** en la Universidad EAN y **Matemáticas** en la Universidad de los Andes.
+🎓 I study **Systems Engineering** at Universidad EAN and **Mathematics** at Universidad de los Andes.
 
-🧠 Actualmente, desarrollo proyectos de **Inteligencia Artificial**, enfocándome en la **optimización matemática**, **entrenamiento de modelos** y su **implementación en apps** con impacto.
+🧠 Currently, I develop **Artificial Intelligence** projects, focusing on **mathematical optimization**, **model training** and its **implementation in apps** with impact.
 
-🧰 Herramientas y tecnologías:
-- Python · JavaScript · C++ · MATLAB
-- Bases de datos: DBeaver · Data Modeler · SQL · AWS
-- Machine Learning · Redes Neuronales · Modelado matemático
+🧰 Tools and technologies:
+- Python - JavaScript - C++ - MATLAB.
+- Databases: DBeaver - Data Modeler - SQL - AWS
+- Machine Learning - Neural Networks - Mathematical Modeling
 
-💡 Me apasionan:
-- La IA que resuelve problemas reales
-- Las bases de datos como estructura de conocimiento
-- El arte que nace en lo cotidiano
-- La música como lenguaje universal (🎹 & 🎸)
+💡 I am passionate about:
+- AI that solves real problems.
+- Databases as a knowledge structure
+- Art that is born in the everyday
+- Music as a universal language (🎹 & 🎸)
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies and Tools
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,cpp,js,matlab,html,css,aws,sqlite,postgresql,git,vscode" />
@@ -48,7 +48,7 @@
 
 ---
 
-### 🌐 Contáctame
+### 🌐 Contact me at
 
 <div align="center">
   <a href="mailto:dayis.velasquez@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -59,13 +59,13 @@
 ---
 
 <div align="center">
-  <em>"Todos merecen ser escuchados y comprendidos."</em>  
+  <em>"Everyone deserves to be heard and understood."</em>  
   <br/>
-  <em>Disfruto lo que otros consideran ordinario. Allí reside la verdadera belleza.</em>
+  <em>I enjoy what others consider ordinary. Therein lies the true beauty.</em>
 </div>
 
 ---
 
-⭐ Créditos de inspiración: [CtorW](https://github.com/CtorW)
+⭐ Inspiration credits: [CtorW](https://github.com/CtorW)
 
 
