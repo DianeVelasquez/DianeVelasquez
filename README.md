@@ -1,11 +1,13 @@
 <div align="center">
-  <img width="300" src="assets/MimiLogo.png" />
-  <h1>¡Hola, soy Dayana 👋!</h1>
+  <h1>Hi I'm dayana velasquez👋!</h1>
 </div>
 
 <div align="center">
   <em>Estudiante de Ingeniería de Sistemas · Matemática en construcción · Soñadora con IA · Amante del arte en lo cotidiano.</em>
+  <img width="300" src="assets/Mylog.png" />
 </div>
+
+
 
 ---
 
